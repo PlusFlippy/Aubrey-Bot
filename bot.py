@@ -1,1 +1,1 @@
-#This file has been moved to cogs folder
+#This file has been moved to src folder
