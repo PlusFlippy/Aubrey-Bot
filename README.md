@@ -1,1 +1,2 @@
-# Aubrey-Bot
+# Aubrey
+A multipurpose bot created for discord
